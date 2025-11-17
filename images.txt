@@ -1,3 +1,4 @@
+jc21/nginx-proxy-manager:latest
 nginx
 instituteiptv/bee-v1:latest
 #支持私库
